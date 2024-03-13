@@ -4,8 +4,7 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-create-medication',
-  templateUrl: './create-medication.component.html',
-  styleUrl: './create-medication.component.css'
+  templateUrl: './create-medication.component.html'
 })
 export class CreateMedicationComponent {
   createMedForm!: FormGroup
