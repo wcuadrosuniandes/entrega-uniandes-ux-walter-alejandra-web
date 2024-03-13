@@ -10,6 +10,8 @@ const routes: Routes = [
   {  path:'registro', component: RegisterComponent, pathMatch: 'full'  },
   { path: 'medicamentos', component: ListMedicationComponent,  pathMatch: 'full' },
   { path: 'medicamentos/editar', component: EditMedicationComponent, pathMatch: 'full'},
+  { path: 'contacto/crear', component: CreateContactComponent, pathMatch: 'full'}
+
 ];
 
 @NgModule({

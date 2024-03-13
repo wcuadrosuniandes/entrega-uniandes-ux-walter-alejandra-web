@@ -16,9 +16,10 @@ import { SidebarModule } from './sidebar/sidebar.module';
     BrowserModule,
     AppRoutingModule,
     UserModule,
-    MedicineModule, 
-    FormsModule, 
-    SidebarModule
+    MedicineModule,
+    FormsModule,
+    SidebarModule,
+    ContactModule
   ],
   providers: [
     provideClientHydration()
