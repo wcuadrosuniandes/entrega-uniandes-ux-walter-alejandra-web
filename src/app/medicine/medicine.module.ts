@@ -5,6 +5,7 @@ import { EditMedicationComponent } from './edit-medication/edit-medication.compo
 import { SidebarModule } from '../sidebar/sidebar.module';
 import { ReactiveFormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
+import { MenuModule } from '../menu/menu.module';
 
 
 
@@ -15,10 +16,11 @@ import { RouterModule } from '@angular/router';
     EditMedicationComponent
   ],
   imports: [
-    CommonModule, 
+    CommonModule,
     SidebarModule,
     ReactiveFormsModule,
-    RouterModule
+    RouterModule,
+    MenuModule
   ]
 })
 export class MedicineModule { }

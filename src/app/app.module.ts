@@ -7,6 +7,8 @@ import { AppComponent } from './app.component';
 import { UserModule } from './user/user.module';
 import { MedicineModule } from './medicine/medicine.module';
 import { SidebarModule } from './sidebar/sidebar.module';
+import { ContactModule } from './contact/contact.module';
+import { MenuModule } from './menu/menu.module';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,8 @@ import { SidebarModule } from './sidebar/sidebar.module';
     MedicineModule,
     FormsModule,
     SidebarModule,
-    ContactModule
+    ContactModule,
+    MenuModule
   ],
   providers: [
     provideClientHydration()
