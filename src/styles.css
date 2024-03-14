@@ -28,7 +28,7 @@ body {
     margin-left: -3rem;
 }
 .trap2 {
-    background-image: url("https://wcuadrosuniandes.github.io/entrega-uniandes-ux-walter-alejandra-web/assets/bg-login.jpg");
+    background-image: url("/assets/bg-login.jpg");
     clip-path:polygon(15% 0, 100% 0%, 100% 100%, 0 100%);
     background-size: cover;
 
@@ -59,7 +59,7 @@ body {
 
 }
 .bg-register {
-    background-image: url("https://wcuadrosuniandes.github.io/entrega-uniandes-ux-walter-alejandra-web/assets/Fondo.png");
+    background-image: url("/assets/Fondo.png");
 }
 .modal {}
 
