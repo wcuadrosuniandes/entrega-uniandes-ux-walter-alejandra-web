@@ -5,6 +5,8 @@ w.cuadrosr@uniandes.edu.co
 Mery Alejandra Niño Gomez
 ma.ninog12@uniandes.edu.co
 
+## Release
+[Release](https://github.com/wcuadrosuniandes/entrega-uniandes-ux-walter-alejandra-web/releases/tag/1.0.0)
 ## APLICACIÓN DESPLEGADA EN GITHUB PAGES
 [Aplicación GITHUB PAGES](https://wcuadrosuniandes.github.io/entrega-uniandes-ux-walter-alejandra-web/)
 
